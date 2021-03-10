@@ -25,5 +25,5 @@ Adding an image:
 
 ![cat image](https://thumbs.dreamstime.com/b/cute-cat-baby-pets-50602488.jpg)
 
-![super duper gel pic](./
+![super duper gel pic](./IM001793.Tif)
 
