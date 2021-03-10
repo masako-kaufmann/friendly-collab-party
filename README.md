@@ -1,1 +1,3 @@
-# friendly-collab-party
+# friendly collab party
+
+This is my test repository
