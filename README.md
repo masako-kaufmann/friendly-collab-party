@@ -15,3 +15,15 @@ numbered
 **bold text**
 
 ***bold and italic*** 
+
+
+Adding a link
+[click this link](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+
+Adding an image:
+
+![cat image](https://thumbs.dreamstime.com/b/cute-cat-baby-pets-50602488.jpg)
+
+
+
